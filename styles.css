@@ -1,0 +1,66 @@
+h1{
+    color: darkred;
+    text-align: center;
+    font-size: 36px;
+}
+p{
+    color: darkblue;
+    font-size: 20px;
+    text-align: center;
+}
+#header-2{
+    color: darkgreen;
+    text-align: center;
+    font-size: 24px;
+    text-decoration: underline;
+}
+#header-3{
+    color: darkgreen;
+    text-align: center;
+    font-size: 22px;
+    text-decoration: underline;
+}
+#para1{
+    color: darkorange;
+    font-size: 20px;
+    text-align: center;
+}
+
+.p-css{
+    color: darkcyan;
+    font-size: 20px;
+    text-align: center;
+}
+
+*{
+    background-color:lavenderblush; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif,
+     sans-serif;
+     font-size: 30px;
+     font-weight: lighter;
+     text-align: center;
+     text-transform: lowercase;
+     line-height: 1.5;
+     letter-spacing: 1px;
+}
+
+.box-model{
+    width: 500px;
+    height: 400px;
+    background-color: lightgrey;
+    padding: 10px;
+    border: 3px solid black;
+}
+.box{
+    width: 300px;
+    height: 200px;
+    background-color: lightgreen;
+    padding: 20px;
+    border: 3px solid black;
+    margin: 20px auto;   
+}
+.box p{
+    color: darkblue;
+    font-size: 20px;
+    text-align: center;
+}
